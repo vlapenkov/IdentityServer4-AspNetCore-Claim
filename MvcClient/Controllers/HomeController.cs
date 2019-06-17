@@ -8,6 +8,8 @@ using IdentityModel.Client;
 
 namespace MvcClient.Controllers
 {
+    //
+
     public class HomeController : Controller
     {
         public IActionResult Index()
